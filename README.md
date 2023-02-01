@@ -17,3 +17,19 @@ and predict the revenue through statistics. Travel and stay can be integrated wi
 can be implemented, for example, live streaming of monuments since not everyone visit places physically and spectate things that is unique to that monument. 
 
 
+# Snapshots
+
+![a](https://user-images.githubusercontent.com/70337635/216007304-30a1f329-914f-45cc-b79b-4d92e34295fe.jpg)
+
+![b](https://user-images.githubusercontent.com/70337635/216007345-a2bee02b-e345-433f-95a5-572e4067ca1c.jpg)
+
+![c](https://user-images.githubusercontent.com/70337635/216007392-d65bf642-cb64-4002-8f81-bd1f31e80703.jpg)
+
+![d](https://user-images.githubusercontent.com/70337635/216007472-0f02c98e-f501-4bf1-a138-667dcd78f96a.png)
+
+![e](https://user-images.githubusercontent.com/70337635/216007535-223ee264-bb81-442a-af16-63eb08179d88.png)
+
+![f](https://user-images.githubusercontent.com/70337635/216007574-75b2be89-0633-4603-a1c9-256086741b45.png)
+
+![g](https://user-images.githubusercontent.com/70337635/216007618-06723d6f-ac35-48dc-b99e-622283032b06.png)
+
